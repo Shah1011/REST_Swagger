@@ -1,7 +1,7 @@
 openapi: 3.0.3
 info:
   title: Simple Items API
-  description: API for managing items (sample: Apple, Banana)
+  description: API for managing items
   version: "1.0.0"
 servers:
   - url: http://localhost:5000
